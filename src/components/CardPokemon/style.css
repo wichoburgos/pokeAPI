@@ -1,0 +1,39 @@
+p {
+    margin: 0;
+}
+.contenedor {
+    background: #333c63;
+    border-radius: 10px;
+}
+.sprite {
+    text-align: center;
+}
+.tipos {
+    display: flex;
+    justify-content: center; 
+}
+.color {
+    padding: 5px 5px;
+    margin: 5px 5px 5px 0;
+    border-radius: 5px; 
+    color: #fff;
+}
+.nombre {
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+.infoPkm {
+    margin-left: 10px;
+}
+.datos {
+    padding-bottom: 10px;
+}
+.datos .titulo {
+    color: #fff;
+    font-weight: 700;
+}
+.info{
+    color:#f6b914;
+}
